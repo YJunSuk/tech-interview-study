@@ -28,5 +28,5 @@
 
 
 ## 해당 이슈
-https://github.com/YJunSuk/tech-interview-study/issues/2
-
+1주차 1회차: https://github.com/YJunSuk/tech-interview-study/issues/2
+1주차 2회차: https://github.com/YJunSuk/tech-interview-study/issues/3
