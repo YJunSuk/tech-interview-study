@@ -27,5 +27,5 @@
 
 
 ## 해당 이슈
-#2
+https://github.com/YJunSuk/tech-interview-study/issues/2
 
